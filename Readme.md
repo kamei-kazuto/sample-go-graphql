@@ -1,5 +1,5 @@
 # Go graphQL sample
-
+example graphql-go
 https://github.com/graphql-go/graphql
 
 ## Getting started
